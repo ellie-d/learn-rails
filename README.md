@@ -1,6 +1,2 @@
 # README
-
-
-
-* ...
-# learn-rails
+This is a new app based on Daniel Kehoe's tutorial
